@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
-public class MainActivity extends Activity {
+
 
     private ImageView btnEmpresa;
     private ImageView btnServicos;
